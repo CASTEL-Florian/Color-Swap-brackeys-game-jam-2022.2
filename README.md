@@ -16,6 +16,8 @@ Link to a gameplay video : https://youtu.be/U9eJo437Qx4
 
 The game plays with a mouse and keyboard.
 
+WASD/arrow keys - Move
+
 Mouse - Aim
 
 Left mouse button - shoot
